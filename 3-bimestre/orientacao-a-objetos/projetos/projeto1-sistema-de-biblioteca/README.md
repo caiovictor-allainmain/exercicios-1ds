@@ -257,7 +257,7 @@ Você deverá desenvolver toda a solução nesse arquivo.
 O arquivo deverá exportar a classe:
 
 ```jsx
-module.exports = Livro
+w
 ```
 
 Boas práticas! 🤙
