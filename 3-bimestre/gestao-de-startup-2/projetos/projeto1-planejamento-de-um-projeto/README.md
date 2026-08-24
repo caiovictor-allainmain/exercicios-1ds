@@ -451,3 +451,7 @@ Ao final da aula, cada equipe deverá entregar:
 **5. Problema real documentado**
 
 **6. Solução inicial documentada**
+
+> OBS: O projeto deve ser entregue até o final da 3º aula do dia 24-ago!
+
+Boas práticas! 🤙
