@@ -23,6 +23,8 @@ Previsão para - | Quantidade de Indivíduos: -
 - Prova Bimestral: previsão para -
 - ✅ **Projeto 1 - Sistema de Biblioteca**<br>
 Prazo de Entrega 1: 17-ago (2,5 pt) | Prazo de Entrega 2: 20-ago (1,5 pt)
+- ⚠️ **Projeto 2 - Sistema de Gestão de Funcionários**<br>
+Prazo de Entrega 1: 28-ago (2,5 pt) | Prazo de Entrega 2: 1-set (1,5 pt)
 
 #### | CONTEÚDOS PARA A PROVA
 ```
